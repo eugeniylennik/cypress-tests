@@ -1,0 +1,11 @@
+{
+  "IsStaticCode": true,
+  "ValidAttemptInterval": 600,
+  "CodeVerifyLifeTime": 30,
+  "RepeatInterval": 10,
+  "BlockedInterval": 60,
+  "MaxRepeatCount": 3,
+  "MaxEmailAttemptCount": 5,
+  "MaxPhoneCallAttemptCount": 2,
+  "MaxPhoneSmsAttemptCount": 3
+}

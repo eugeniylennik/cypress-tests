@@ -1,0 +1,31 @@
+{
+  "viewportHeight": 1280,
+  "viewportWidth": 1620,
+  "browser": "chrome",
+  "fixturesFolder": "cypress/fixtures",
+  "integrationFolder": "cypress/integration",
+  "screenshotsFolder": "cypress/screenshots",
+  "videosFolder": "cypress/videos",
+  "downloadsFolder": "cypress/downloads",
+  "defaultCommandTimeout": 8000,
+  "projectId": "fdyygs",
+  "video": true,
+  "blockHosts": [
+    "mc.yandex.ru",
+    "stats.g.doubleclick.net"
+  ],
+  "ignoreTestFiles": [
+    "**/1-getting-started/*.ts",
+    "**/2-advanced-examples/*.ts"
+  ],
+  "env": {
+    "ALLOW_SCREENSHOT": true,
+    "IS_WHITE_HEADER": false,
+    "X-RSV-STkn": "6da8fc19-29c6-480b-9471-cc08b3128184",
+    "STATIC_CODE": "1234",
+    "IS_PHONE_ENABLED": true
+  },
+  "retries": {
+    "runMode" : 1
+  }
+}
