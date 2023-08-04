@@ -1,2 +1,1 @@
-# rsv-api-tests
 
